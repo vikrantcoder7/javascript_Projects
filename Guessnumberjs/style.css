@@ -1,0 +1,31 @@
+body{
+     background-color: #212121;
+     color: #fff;
+}
+
+.wrapper{
+    
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+     
+}
+
+
+#gameheadingtext{
+      color: rgb(150, 211, 191);
+      font-style :oblique;
+      
+}
+
+#subt{
+     background-color: darkcyan;
+     padding: 10px;
+     border-radius: 10px;
+     border-color: darkcyan;
+     
+     border: darkcyan;
+}
